@@ -1,7 +1,7 @@
 ## 1. Two Sum
 
 
-`Easy`
+`Easy` `Array` `Hash Table`
 
 <br>
 
